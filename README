@@ -1,0 +1,39 @@
+Author: Thomas Golbranson
+Date: 2/24/2024
+
+
+Compiling instructions:
+- put text to be translated in 'original.txt' file, line separateed
+- navigate to directory in terminal
+- terminal commands:
+        g++ *.cpp
+        ./a.out
+- to view output, open translation.html file in a web browser
+
+
+
+References (primarily syntax and built-in function lookups):
+
+    https://cplusplus.com/articles/iG3hAqkS/
+
+
+    https://www.programiz.com/cpp-programming/library-function/cctype/ispunct#:~:text=The%20ispunct()%20function%20checks,_%60%7B%7C%7D~.
+
+
+    https://www.digitalocean.com/community/tutorials/string-concatenation-in-c-plus-plus
+
+
+    https://www.geeksforgeeks.org/naming-convention-in-c/
+
+
+    https://www.geeksforgeeks.org/stdto_string-in-cpp/
+
+
+    https://www.geeksforgeeks.org/how-to-convert-a-single-character-to-string-in-cpp/
+
+
+    https://cplusplus.com/reference/string/string/find/
+
+
+    https://www.w3schools.com/cpp/cpp_files.asp#:~:text=Create%20and%20Write%20To%20a,insertion%20operator%20(%20%3C%3C%20).
+
